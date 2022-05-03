@@ -8,3 +8,10 @@ Illustrate various pathfinding and maze generating algorithms using [raylib](htt
 ![dijkstra](https://i.imgur.com/9kSjclL.gif)
 ### Sidewinder maze + Depth-first search
 ![dfs+sidewinder](https://i.imgur.com/96nQOZZ.gif)
+
+## Building and running
+Makefile setup for gcc and windows.
+
+`make`
+
+`.\PathfindingVisualizer.exe`
